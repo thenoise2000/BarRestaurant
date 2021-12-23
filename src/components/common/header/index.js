@@ -8,7 +8,7 @@ const Header = () => {
     return(
         <div className="header max-width">
             <img src="https://cdn.dribbble.com/users/1053232/screenshots/2791098/bazaar-gif.gif"
-            alt="Zomato-logo" className="header-logo"/>
+            alt="logo" className="header-logo"/>
             <div className="header-right">
                 <div className="header-location-search-container">
                     <div className="location-wrapper">
