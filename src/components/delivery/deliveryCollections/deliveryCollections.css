@@ -1,0 +1,21 @@
+.delivery-collections {
+  background: white;
+    width: 100%;
+    padding: 40px 0px;
+  }
+
+  .letter { font-family: "Architects Daughter";
+     font-size: 24px; 
+     font-style: normal;
+     color: blue;
+   }
+
+  .letter2 {
+      font-family: 'Caveat', sans-serif;  
+      font-size: 24px;                                              
+  }
+  
+  .letterB {
+      font-family: "Architects Daughter"; 
+      font-size: 14px;                                                 
+  }
